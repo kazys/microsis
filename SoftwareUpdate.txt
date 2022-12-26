@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
