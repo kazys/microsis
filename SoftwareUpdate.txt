@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Python refactorings and simplifications (#7549)
