@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Link checks SSL insecure robustness (#7853)
